@@ -1,0 +1,17 @@
+{
+    "name": "midtermpractice",
+    "version": "1.0.0",
+    "description": "a collection",
+    "main": "public/index.html",
+    "scripts": {
+        "start": "parcel public/index.html --no-hmr --port $PORT",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Mykola Kolombet",
+    "license": "MIT",
+    "dependencies": {
+        "firebase": "^5.9.0",
+        "materialize-css": "^1.0.0",
+        "parcel-bundler": "^1.12.2"
+    }
+}

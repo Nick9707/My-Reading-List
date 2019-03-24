@@ -1,0 +1,9 @@
+@import url("../node_modules/materialize-css/dist/css/materialize.css");
+
+.purchased{
+    text-decoration: line-through;
+}
+
+#title{
+    text-align: center;
+}
